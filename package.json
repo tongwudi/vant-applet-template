@@ -1,0 +1,23 @@
+{
+  "name": "vantdemo",
+  "version": "1.0.0",
+  "description": "微信小程序模版",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vant/weapp": "^1.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tongwudi/vant-applet-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tongwudi/vant-applet-template/issues"
+  },
+  "homepage": "https://github.com/tongwudi/vant-applet-template#readme"
+}
